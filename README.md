@@ -5,9 +5,9 @@
 
 <div align="center">
   <table border="0" style="border: none;">
-    <tr>
+    <tr style="border: none;">
       <td valign="top" style="border: none;">
-<pre><code style="color: #39D353;">
+<pre><code">
                   ████          ▄███
                 ▀█▄▄▄▄██        █▄▄▄▄██
                ██▄▀   ▄▄███████▄▀ ▀▀▄▄██
@@ -30,15 +30,24 @@
          ▀███████████████████████████████████
 </code></pre>
       </td>
-      <td valign="center" style="border: none; font-family: 'JetBrains Mono', monospace; text-align: left; padding-left: 20px;">
-        <h3 style="margin-top: 0;">clintjay@ideapad</h3>
+      <td style="border: none; font-family: 'JetBrains Mono', monospace; text-align: left; padding-left: 20px;">
+        <br/>
+        <h3 style="margin-top: 0;">hello@imclint</h3>
+        <br/>
         <b>Age:</b> Right Age<br>
+        <br/>
         <b>Interest:</b> Exploration, Music, Games, Art, Life <br>
+        <br/>
         <b>Shell:</b> Ghostty + Nushell + Starship<br>
+        <br/>
         <b>Editor:</b> Zed <br>
+        <br/>
         <b>Focus:</b> Developing Applications<br>
+        <br/>
         <b>Role:</b> Founder & CEO @ TaskBuddy<br>
+        <br/>
         <b>Education:</b> IT Undergrad @ NORSU<br>
+        <br/>
         <b>Location:</b> Bayawan City, Philippines
       </td>
     </tr>
@@ -75,7 +84,7 @@
   <table border="0" style="border: none;">
     <tr>
       <td style="border: none; padding-right: 15px;">
-        <img src="https://i.scdn.co/image/ab67616d00001e021a60cc84f67b5e4ff57d422a" width="90" height="90" alt="X's Album Cover" style="border-radius: 8px;" />
+        <img src="https://cdn.prod.website-files.com/64cb5f36172f60e17c655f5f/65ddd57c62c5d739e1c6156a_CAS-ART-1600%20(1).jpg" width="90" height="90" alt="X's Album Cover" style="border-radius: 8px;" />
       </td>
       <td valign="center" style="border: none;">
         <h3 style="margin: 0; color: inherit;">Tejano Blue</h3>
