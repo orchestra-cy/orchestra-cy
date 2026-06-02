@@ -3,7 +3,6 @@
 
 <br>
 
-<div align="center">
   <table border="0" style="border: none;">
     <tr style="border: none;">
       <td valign="top" style="border: none;">
@@ -52,16 +51,15 @@
       </td>
     </tr>
   </table>
-</div>
 
 <br>
 
 ## 🛠️ Tech Stack & Environment
 
-**Languages & Frameworks** 
+**Languages & Frameworks** <br>   
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,fastapi,vite,expo" alt="JavaScript, TypeScript, PHP, Python, FastAPI, Vite, Expo" />
 
-**Environment & Security** 
+**Environment & Security** <br> 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,firebase,github,git" alt="Linux, Ubuntu, Docker, Firebase, GitHub, Git" />
 
 **Specializations** <br>
@@ -89,7 +87,6 @@
       <td valign="center" style="border: none;">
         <h3 style="margin: 0; color: inherit;">Tejano Blue</h3>
         <p style="margin: 0; color: #888;">Cigarettes After Sex</p>
-        <p style="margin: 0; font-size: 0.9em; color: #888;"><i>X's</i></p>
       </td>
     </tr>
   </table>
