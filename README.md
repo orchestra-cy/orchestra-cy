@@ -73,16 +73,15 @@
 
 ## 🎵 On Repeat
 
+<div align="center">
 <a href="https://open.spotify.com/track/2yCJEAAeX6S7g3dD7ZkM9H" target="_blank" style="text-decoration: none;">
-  <table border="0" style="border: none;">
-    <tr>
-      <td style="border: none; padding-right: 15px;">
-        <img src="https://cdn.prod.website-files.com/64cb5f36172f60e17c655f5f/65ddd57c62c5d739e1c6156a_CAS-ART-1600%20(1).jpg" width="90" height="90" alt="X's Album Cover" style="border-radius: 8px;" />
-      </td>
-      <td valign="center" style="border: none;">
-        <h3 style="margin: 0; color: inherit;">Tejano Blue</h3>
-        <p style="margin: 0; color: #888;">Cigarettes After Sex</p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; align-items: center; gap: 16px; background: #0f0f0f; padding: 10px 20px 10px 10px; border-radius: 14px; width: fit-content; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; border: 1px solid #2a2a2a;">
+    <img src="https://cdn.prod.website-files.com/64cb5f36172f60e17c655f5f/65ddd57c62c5d739e1c6156a_CAS-ART-1600%20(1).jpg" width="80" height="80" style="border-radius: 10px;" />
+    <div>
+      <div style="color: white; font-weight: 600; margin: 0;">Tejano Blue</div>
+      <div style="color: #aaa; font-size: 14px;">Cigarettes After Sex</div>
+      <div style="color: #1DB954; font-size: 12px; margin-top: 5px;">🎵 Spotify</div>
+    </div>
+  </div>
 </a>
+</div>
