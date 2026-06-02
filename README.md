@@ -3,7 +3,7 @@
 
 <br>
 
-  <table border="0" style="border: none;">
+  <table border="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td valign="top" style="border: none;">
 <pre><code">
@@ -29,26 +29,21 @@
          ▀███████████████████████████████████
 </code></pre>
       </td>
-      <td style="border: none; font-family: 'JetBrains Mono', monospace; text-align: left; padding-left: 20px;">
-        <br/>
-        <h3 style="margin-top: 0;">hello@imclint</h3>
-        <br/>
-        <b>Age:</b> Right Age<br>
-        <br/>
-        <b>Interest:</b> Exploration, Music, Games, Art, Life <br>
-        <br/>
-        <b>Shell:</b> Ghostty + Nushell + Starship<br>
-        <br/>
-        <b>Editor:</b> Zed <br>
-        <br/>
-        <b>Focus:</b> Developing Applications<br>
-        <br/>
-        <b>Role:</b> Founder & CEO @ TaskBuddy<br>
-        <br/>
+    <td style="border: none; font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Courier New, monospace; text-align: left; padding-left: 20px;">
+        <h3 style="margin-top: 0;">clint@root</h3>
+        <b>OS:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I use ARCH btw<br>
+        <b>Nickname:</b>&nbsp; Clint-KuyaJ-G-Yang<br>
+        <b>Quote:</b>&nbsp;&nbsp;&nbsp;&nbsp; "In Crisis there is Opportunity"<br>
+        <b>Age:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Right Age<br>
+        <b>Interest:</b>&nbsp; Exploration, Music, Games, Art, Life<br>
+        <b>Shell:</b>&nbsp;&nbsp;&nbsp;&nbsp; Ghostty + Nushell + Starship<br>
+        <b>Editor:</b>&nbsp;&nbsp;&nbsp; Zed <br>
+        <b>Focus:</b>&nbsp;&nbsp;&nbsp;&nbsp; Developing Applications<br>
+        <b>Role:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Founder & CEO @ TaskBuddy<br>
+        <b>Org:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; President @ The Idealists' Guild<br>
         <b>Education:</b> IT Undergrad @ NORSU<br>
-        <br/>
-        <b>Location:</b> Bayawan City, Philippines
-      </td>
+        <b>Location:</b>&nbsp; Bayawan City, Philippines<br>
+    </td>
     </tr>
   </table>
 
